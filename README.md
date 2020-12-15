@@ -1,4 +1,4 @@
-# Calculator-socket-multithreaded
+# Calculator-socket-multithreaded-rmi
 
   ## Sobre
 
